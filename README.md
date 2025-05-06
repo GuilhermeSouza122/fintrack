@@ -1,0 +1,1 @@
+# FinTrack - Análise Financeira Inteligente
